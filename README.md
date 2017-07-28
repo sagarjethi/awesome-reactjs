@@ -4,8 +4,8 @@
 A collection of awesome things regarding React ecosystem.
 - [Javascript](#javascript)
 - [React](#react)
-       -React Tutorials(#react-tutorials)
-       - React App build Tutorials(#react-app-build-tutorials)
+       - [React Tutorials](#react-tutorials)
+       - [React App build Tutorials](#react-app-build-tutorials)
        
  - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
