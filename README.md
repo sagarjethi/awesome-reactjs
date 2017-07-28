@@ -4,8 +4,8 @@
 A collection of awesome things regarding React ecosystem.
 - [Javascript](#javascript)
 - [React](#react)
-       - [React Tutorials](#react-tutorials)
-       - [React App build Tutorials](#react-app-build-tutorials)
+  - [React Tutorials](#react-tutorials)
+  - [React App build Tutorials](#react-app-build-tutorials)
        
  - [JSX](#jsx)
   - [JSX Resources](#jsx-resources)
@@ -23,8 +23,8 @@ A collection of awesome things regarding React ecosystem.
        
        
        
-  #### Javascript      
-        * [Functional Programming with javascript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)     
+ #### Javascript      
+   * [Functional Programming with javascript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)     
   #### React Tutorials
    * [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
    * [React Tutorial learn](https://facebook.github.io/react/tutorial/tutorial.html)
@@ -33,6 +33,6 @@ A collection of awesome things regarding React ecosystem.
    * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
    
  #### React App build Tutorials  
-    * [React to build web application](https://egghead.io/courses/start-using-react-to-build-web-applications)
+  * [React to build web application](https://egghead.io/courses/start-using-react-to-build-web-applications)
    
    
